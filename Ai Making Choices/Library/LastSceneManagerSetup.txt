@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/logging.unity
+- path: Assets/BOB/CombatScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
