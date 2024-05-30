@@ -373,7 +373,11 @@
 "Assets/NodeStuff/Start_Node.cs"
 "Assets/NodeStuff/StoryGraph.cs"
 "Assets/NodeStuff/Tree_node.cs"
+"Assets/Scriptable/GameData.cs"
 "Assets/TextEditor.cs"
+"Assets/UI Nav/CharacterSelect.cs"
+"Assets/UI Nav/DataOpperator.cs"
+"Assets/UI Nav/MainMenu.cs"
 -langversion:9.0
 
 /deterministic
