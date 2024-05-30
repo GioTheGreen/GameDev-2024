@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: CurrentData
   m_EditorClassIdentifier: 
   firstPlay: 1
-  Boy: 0
+  Boy: 1
   menu: 0
