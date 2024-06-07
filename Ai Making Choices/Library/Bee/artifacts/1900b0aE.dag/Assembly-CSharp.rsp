@@ -378,6 +378,7 @@
 "Assets/UI Nav/CharacterSelect.cs"
 "Assets/UI Nav/DataOpperator.cs"
 "Assets/UI Nav/MainMenu.cs"
+"Assets/UI Nav/settingsScript.cs"
 -langversion:9.0
 
 /deterministic

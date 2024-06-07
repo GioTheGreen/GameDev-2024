@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstPlay: 1
   Boy: 1
+  MasterVolume: 306
+  Music: 500
+  SoundFX: 500
   menu: 0

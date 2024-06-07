@@ -26,6 +26,8 @@ public class Director : MonoBehaviour
     public GameObject DialogContainor;
     public GameObject QuestionContainor;
     public List<GameObject> buttons;
+    public GameData gamedata;
+    public bool finished = false;
 
 
     //private int4 p1mode1 = new int4(585,190,585,0);
@@ -33,6 +35,7 @@ public class Director : MonoBehaviour
 
     void Start()
     {
+        story = gamedata.current;
         story.Restart();
     }
 
@@ -114,7 +117,7 @@ public class Director : MonoBehaviour
                             show.done = true;
                             Current_BG.sprite = BG[(int)show.map];
                             char1.sprite = CharSprites[(int)show.chacactor];
-                            char1.rectTransform.position = new Vector3(-485, -95, 0) + char1.rectTransform.parent.position; // new (100, 0, 850, 890);
+                            char1.rectTransform.position = new Vector3(-235, -95, 0) + char1.rectTransform.parent.position; // new (100, 0, 850, 890);
                             char2.sprite = CharSprites[(int)show.chacactor2];
                             if (show.first)
                             {

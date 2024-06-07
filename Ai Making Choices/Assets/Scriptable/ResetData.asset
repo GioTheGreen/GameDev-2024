@@ -14,4 +14,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstPlay: 1
   Boy: 1
+  MasterVolume: 100
+  Music: 400
+  SoundFX: 1000
   menu: 0
+  Money: 50
+  day: 0
+  day_actions: 3
+  tutorial_1: 0
+  tutorial_2: 0
+  tutorial_3: 0
+  tutorial_4: 0
+  wake_up_at_ally: 0
+  hospitel_1: 0
+  trash_leadge: 0
+  unlock_shop: 0
+  TL: -1
+  RL: -1
+  PL: -1
+  PeL: -1
+  RU: -1
+  PU: -1
+  PeU: -1

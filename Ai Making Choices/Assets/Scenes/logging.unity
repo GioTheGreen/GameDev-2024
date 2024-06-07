@@ -1182,7 +1182,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: 
   textMeshPro: {fileID: 1681990288}
-  writeSpeed: 0.3
+  writeSpeed: 0.1
   inMotion: 0
 --- !u!1 &2029544048
 GameObject:
@@ -1219,14 +1219,20 @@ MonoBehaviour:
   - {fileID: 21300000, guid: e314e49f75c27184a89a02f587f59450, type: 3}
   replay: {fileID: 21300000, guid: 4eed2e5c839be1b4085baa081a6f126e, type: 3}
   CharSprites:
-  - {fileID: 21300000, guid: f1973702623e17c4f8e76e36c4559d11, type: 3}
-  - {fileID: 21300000, guid: 708c8bb0d0ec41a4781939a66f00dd74, type: 3}
-  - {fileID: 21300000, guid: ccc0d85ad141b1a47bd445333ad1f308, type: 3}
+  - {fileID: 21300000, guid: 3e7f568651eb43a4cab4a198fc5b8588, type: 3}
+  - {fileID: 21300000, guid: 5198135638d9eea42809042bb96595e0, type: 3}
+  - {fileID: 21300000, guid: f418eb99d8963c04788dd630bb7d48ef, type: 3}
+  - {fileID: 21300000, guid: c985c0fa689c7d543b4cafaa94af4238, type: 3}
+  - {fileID: 21300000, guid: 4515cf7295d22434684f6ee3979ef29c, type: 3}
+  - {fileID: 21300000, guid: bee104f4b8cc11e468f581fecee30b02, type: 3}
   buttonClass: {fileID: 3671815927645582624, guid: adda5543261ffcb42983f8da4517ce90, type: 3}
   charName:
-  - Char 1
-  - Char 2
-  - Char 3
+  - Seraphina
+  - Percival
+  - Vespera
+  - Caspian
+  - Orion
+  - ...
   Current_BG: {fileID: 1654606445}
   char1: {fileID: 1594958080}
   char2: {fileID: 1075656216}

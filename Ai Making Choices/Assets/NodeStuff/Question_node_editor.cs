@@ -12,7 +12,7 @@
 //public class Question_node_editor : NodeEditor
 //{
 //    private Question_node question;
-//   // public Slider slider;(Rect position, SerializedProperty property, float leftValue, float rightValue)
+//    // public Slider slider;(Rect position, SerializedProperty property, float leftValue, float rightValue)
 //    public override void OnBodyGUI()
 //    {
 //        if (question == null) question = target as Question_node;
