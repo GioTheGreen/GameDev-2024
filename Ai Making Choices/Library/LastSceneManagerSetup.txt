@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/logging.unity
+- path: Assets/Scenes/Testing/3DmodelShowcase.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
